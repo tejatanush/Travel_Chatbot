@@ -1,0 +1,11 @@
+streamlit
+pymongo
+groq
+langchain
+langchain-groq
+pandas
+numpy
+matplotlib
+sentence_transformers
+python-dotenv
+nbimporter

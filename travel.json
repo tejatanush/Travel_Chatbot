@@ -1,0 +1,212 @@
+[
+    {
+      "city": "Mumbai",
+      "type": "place",
+      "title": "Marine Drive",
+      "content": "Marine Drive is a 3.6 km long boulevard along the South Mumbai coast. Known as the Queen’s Necklace, it is a perfect place for evening walks, sea views, and local food."
+    },
+    {
+      "city": "Mumbai",
+      "type": "park",
+      "title": "Sanjay Gandhi National Park",
+      "content": "This park in north Mumbai features dense forests, the ancient Kanheri Caves, a lion safari, and cycling trails. Great for nature lovers and families."
+    },
+    {
+      "city": "Mumbai",
+      "type": "food",
+      "title": "Vada Pav",
+      "content": "A spicy potato fritter in a bread bun served with chutneys. Available citywide; popular stalls include Anand Stall near Mithibai College and Aaram Vada Pav at CST."
+    },
+    {
+      "city": "Mumbai",
+      "type": "hotel",
+      "title": "The Taj Mahal Palace",
+      "content": "A luxury heritage hotel located in Colaba, opposite the Gateway of India. It offers historic charm, sea views, and five-star hospitality."
+    },
+    {
+      "city": "Mumbai",
+      "type": "shopping",
+      "title": "Colaba Causeway",
+      "content": "A vibrant shopping street famous for clothes, accessories, books, and street food. Great for tourists looking for souvenirs."
+    },
+    {
+      "city": "Mumbai",
+      "type": "event",
+      "title": "Ganesh Chaturthi",
+      "content": "One of Mumbai’s biggest festivals celebrating Lord Ganesha with grand processions and public pandals like Lalbaugcha Raja."
+    },
+    {
+      "city": "Mumbai",
+      "type": "place",
+      "title": "Gateway of India",
+      "content": "Built in 1924, this iconic arch monument overlooks the Arabian Sea. Ferry rides to Elephanta Caves depart from here."
+    },
+    {
+      "city": "Mumbai",
+      "type": "museum",
+      "title": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+      "content": "Formerly Prince of Wales Museum, it houses art, archaeology, and natural history exhibits."
+    },
+    {
+      "city": "Mumbai",
+      "type": "transport",
+      "title": "Mumbai Local Trains",
+      "content": "The backbone of Mumbai’s commute. Operates on Western, Central, and Harbour lines. Avoid peak hours if traveling for leisure."
+    },
+    {
+      "city": "Mumbai",
+      "type": "travel_tip",
+      "title": "Best Time to Visit",
+      "content": "October to February is the best season to visit Mumbai due to pleasant weather and festive vibes."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "place",
+      "title": "Kanaka Durga Temple",
+      "content": "Located on Indrakeeladri Hill beside the Krishna River, this temple is a major pilgrimage site with panoramic views."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "park",
+      "title": "Rajiv Gandhi Park",
+      "content": "A landscaped park with musical fountains, mini zoo, and educational exhibits. Great for family outings."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "food",
+      "title": "Andhra Meals",
+      "content": "Spicy vegetarian and non-veg meals served on banana leaves with pappu, pachadi, and curries. Babai Hotel is a popular spot."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "hotel",
+      "title": "The Gateway Hotel MG Road",
+      "content": "A premium hotel in the heart of Vijayawada with spacious rooms, multi-cuisine restaurants, and excellent service."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "shopping",
+      "title": "Besant Road",
+      "content": "A busy shopping hub with theaters, clothing stores, and food joints. Popular among locals and tourists alike."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "event",
+      "title": "Dasara Festival",
+      "content": "Kanaka Durga Temple hosts grand Dasara celebrations. The city is vibrant with lights and cultural activities."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "place",
+      "title": "Bhavani Island",
+      "content": "A serene island on the Krishna River ideal for picnics, boating, and water sports. One of the largest river islands in India."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "museum",
+      "title": "Victoria Jubilee Museum",
+      "content": "A historical museum exhibiting sculptures, paintings, and artifacts. Currently under renovation but culturally important."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "transport",
+      "title": "APSRTC Bus Services",
+      "content": "Provides interstate and local city transport across Andhra Pradesh. Book tickets online or at bus terminals."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "travel_tip",
+      "title": "Best Time to Visit",
+      "content": "November to February is ideal with cooler temperatures. Avoid peak summer months due to extreme heat."
+    },
+    {
+      "city": "General",
+      "type": "itinerary",
+      "title": "Mumbai to Vijayawada - 3 Days",
+      "content": "Day 1: Arrive at Vijayawada. Visit Kanaka Durga Temple and enjoy a river cruise near Bhavani Island.\nDay 2: Explore Undavalli Caves, Mangalagiri, and shop at Besant Road.\nDay 3: Visit Kondapalli Fort and return."
+    },
+    {
+      "city": "General",
+      "type": "itinerary",
+      "title": "Vijayawada to Mumbai - 5 Days",
+      "content": "Day 1: Arrive in Mumbai. Evening walk at Marine Drive.\nDay 2: Visit Gateway of India, Elephanta Caves.\nDay 3: Explore Sanjay Gandhi Park and Kanheri Caves.\nDay 4: Museum, Colaba shopping.\nDay 5: Relax and return."
+    },
+    {
+      "city": "General",
+      "type": "faq",
+      "title": "Best parks in Mumbai?",
+      "content": "Sanjay Gandhi National Park, Hanging Gardens, Shivaji Park, and Priyadarshini Park are scenic green spots in Mumbai."
+    },
+    {
+      "city": "General",
+      "type": "faq",
+      "title": "Local dishes to try in Vijayawada?",
+      "content": "Try Andhra meals, gongura mutton, punugulu, and ghee karam dosa. Street food is spicy and flavorful."
+    },
+    {
+      "city": "General",
+      "type": "faq",
+      "title": "Where to shop in Mumbai?",
+      "content": "Colaba Causeway, Crawford Market, and Linking Road in Bandra are popular for affordable shopping."
+    },
+    {
+      "city": "General",
+      "type": "faq",
+      "title": "Is Uber available in Vijayawada?",
+      "content": "Yes, Uber and Ola both operate in Vijayawada. Auto-rickshaws and local buses are also available."
+    },
+    {
+      "city": "General",
+      "type": "faq",
+      "title": "What is the fastest travel mode from Mumbai to Vijayawada?",
+      "content": "Air travel is the fastest, taking about 2 hours. Direct flights are available daily."
+    },
+    {
+      "city": "General",
+      "type": "faq",
+      "title": "Good hotels near Mumbai airport?",
+      "content": "The Lalit, ITC Maratha, and Sahara Star are premium hotels near Chhatrapati Shivaji Maharaj International Airport."
+    },
+    {
+      "city": "General",
+      "type": "faq",
+      "title": "Are there vegetarian restaurants in Vijayawada?",
+      "content": "Yes, Babai Hotel, Brindavan Restaurant, and RR Durbar are great choices for pure vegetarian meals."
+    },
+    {
+      "city": "General",
+      "type": "faq",
+      "title": "Any boat rides available in Vijayawada?",
+      "content": "Yes, Krishna River boating is available at Bhavani Island and near Prakasam Barrage."
+    },
+    {
+      "city": "General",
+      "type": "faq",
+      "title": "Top romantic spots in Mumbai?",
+      "content": "Marine Drive, Worli Sea Face, Bandstand Promenade, and Carter Road are great for couples."
+    },
+    {
+      "city": "Mumbai",
+      "type": "place",
+      "title": "Haji Ali Dargah",
+      "content": "A famous mosque and tomb located on an islet off the coast of Worli, accessible by a causeway during low tide."
+    },
+    {
+      "city": "Mumbai",
+      "type": "beach",
+      "title": "Juhu Beach",
+      "content": "A popular beach in suburban Mumbai famous for sunset views and street food like pav bhaji and bhel puri."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "place",
+      "title": "Undavalli Caves",
+      "content": "Rock-cut cave temples dating back to the 4th–5th century. Features stunning Jain and Buddhist carvings."
+    },
+    {
+      "city": "Vijayawada",
+      "type": "fort",
+      "title": "Kondapalli Fort",
+      "content": "An ancient fort on a hilltop known for historical significance and views. Also famous for Kondapalli toys."
+    }
+  ]
